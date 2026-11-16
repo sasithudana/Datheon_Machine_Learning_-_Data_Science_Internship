@@ -1,6 +1,4 @@
 # Datheon_Machine_Learning_&_Data_Science_Internship
-# Datheon Machine Learning – Data Science Internship
-
 ## About This Repository
 
 This repository showcases the machine learning projects completed as part of my **Datheon Machine Learning – Data Science Internship**.
