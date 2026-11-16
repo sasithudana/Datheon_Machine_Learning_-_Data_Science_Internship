@@ -1,10 +1,6 @@
 # Datheon_Machine_Learning_&_Data_Science_Internship
 # Datheon Machine Learning – Data Science Internship
 
-<p align="center">
-  **Machine Learning | Data Science | Predictive Modeling**
-</p>
-
 ## About This Repository
 
 This repository showcases the machine learning projects completed as part of my **Datheon Machine Learning – Data Science Internship**.
@@ -201,7 +197,7 @@ Datheon_Machine_Learning_-_Data_Science_Internship/
 
 **Internship Focus:** Supervised Learning, Classification, Regression, and Predictive Analytics
 
-**Repository Owner:** Sasith Udana
+**Repository Owner:** Sasith Siriwardhana
 
 ---
 
